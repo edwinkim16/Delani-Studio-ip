@@ -127,3 +127,15 @@ button{
 button:hover{
     background-color:  #ffa8B6;
 }
+.socialicons{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+.foot{
+    text-align: center;
+}
+h4{
+    font-weight: bold;
+}
