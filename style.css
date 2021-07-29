@@ -28,3 +28,12 @@
 .about p{
     font-weight: 500;
 }
+.services{
+    background-image: url(./assets/s_image.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 40vh;
+}
