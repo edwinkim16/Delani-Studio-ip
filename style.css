@@ -90,3 +90,22 @@
 .contactus h1{
     text-align: center;
 }
+input{
+    background: transparent;
+    width: 20%;
+    border: solid 1px white;
+}
+textarea{
+background: transparent;
+border: solid 1px white;
+margin-top: 3px;
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.message{
+    display: flex;
+    justify-content: center;
+}
