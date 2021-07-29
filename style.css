@@ -79,3 +79,14 @@
     display: none;
     text-align: center;
 }
+.contactus{
+    color: white;
+    background-image: url(./assets/c_image.jpg);
+    background-position: center;
+    height: 60vh;
+    align-items: center;
+    padding: 1%;
+}
+.contactus h1{
+    text-align: center;
+}
