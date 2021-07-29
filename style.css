@@ -75,3 +75,7 @@
     margin-left: -80px;
     margin-right: 125px;
 }  
+.items p{
+    display: none;
+    text-align: center;
+}
