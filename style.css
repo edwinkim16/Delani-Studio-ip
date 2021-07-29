@@ -1,0 +1,141 @@
+.welcome{
+    background-image: url(./assets/h_img.jpg);
+    align-items: center;
+    height: 100vh;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 26%;
+}
+.mouse{
+    padding: 8%;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.about h1{
+    font-weight: bold;
+}
+.about p{
+    font-weight: 500;
+}
+.services{
+    background-image: url(./assets/s_image.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 40vh;
+}
+.content-wrapper{
+    text-align: center;
+}
+ .icons{
+    display: flex;
+    justify-content: space-between;
+} 
+.icons div{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#design{
+    display: none;
+}
+#develop{
+    display: none;
+}
+#product{
+    display: none;
+}
+.portfolio{
+    padding: 3%;
+}
+.portcontent h1{
+    text-align: center;
+}
+.items img{
+    margin: 5%;
+    margin-left: 30px;
+    padding: 2%;
+} 
+.row{
+    margin-left: -80px;
+    margin-right: 125px;
+}  
+.items p{
+    display: none;
+    text-align: center;
+}
+.contactus{
+    color: white;
+    background-image: url(./assets/c_image.jpg);
+    background-position: center;
+    height: 60vh;
+    align-items: center;
+    padding: 1%;
+}
+.contactus h1{
+    text-align: center;
+}
+input{
+    background: transparent;
+    width: 20%;
+    border: solid 1px white;
+}
+textarea{
+background: transparent;
+border: solid 1px white;
+margin-top: 3px;
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.message{
+    display: flex;
+    justify-content: center;
+}
+.sub{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    padding: 15px;
+    margin-top: 8px;
+    background-color: #164A41;
+    width: 30%;
+    
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+button:hover{
+    background-color:  #ffa8B6;
+}
+.socialicons{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+.foot{
+    text-align: center;
+}
+h4{
+    font-weight: bold;
+}
