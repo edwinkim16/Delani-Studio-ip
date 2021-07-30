@@ -9,7 +9,7 @@ contact the studio incase of any questions.
 * clone the following repo https://github.com/edwinkim16/Delani-Studio-ip
 * use your desired folder on your machine and clone
 the repo there
-*open your project on live server.
+* open your project on live server.
 
 ## Known Bugs
  As per now there are no known bugs.If you experience any you can reach via email edwinkimathi226@gmail.com
